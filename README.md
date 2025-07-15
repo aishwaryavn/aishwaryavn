@@ -77,6 +77,18 @@ I'm also passionate about teaching and mentoring—having guided over 40 trainee
 
 ---
 
+### 💡 Core Competencies
+
+- RESTful Web Services Development
+- Microservices Architecture (Spring Boot)
+- CI/CD Pipeline Integration & Deployment
+- Cloud Integration (AWS)
+- Secure Coding & Best Practices
+- Stakeholder Communication & Documentation
+- Mentorship & Knowledge Sharing
+
+---
+
 ## 💼 Experience
 
 ### Full Stack Developer | X-Workz ODC, Bangalore (Jan 2023 – Present)
@@ -125,10 +137,12 @@ _System for real-time fire outbreak detection via video feeds with auto-alerts_
 
 ## 🎓 Education
 
+- **Master Degree (Laurea Magistrale), Computer Science and IT**  
+  University of L’Aquila, Italy | 106/110 (Oct 2021 – Dec 2022)
 - **M.Tech., Computer Science Engineering**  
-  Amrita Vishwa Vidyapeetham, Bangalore | 7.78/10
+  Amrita Vishwa Vidyapeetham, Bangalore | 7.78/10 (Jun 2020 – Jul 2021)
 - **B.E., Computer Science Engineering**  
-  Dayananda Sagar College of Engineering, Bangalore | 6.48/10
+  Dayananda Sagar College of Engineering, Bangalore | 6.5/10 (Jun 2015 – Jul 2019)
 
 ---
 
@@ -159,4 +173,4 @@ _System for real-time fire outbreak detection via video feeds with auto-alerts_
 
 ---
 
-_Thank you for visiting my profile!_
+> “Clean code always wins. Mentorship fuels growth. Let’s build something impactful together!”
